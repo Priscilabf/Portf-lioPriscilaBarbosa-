@@ -1,4 +1,4 @@
-# Portf-lioPriscilaBarbosa-
+# PortfolioPriscilaBarbosa
 Projeto individual
 Utilizando html e css
 Hospedado no GitHub
